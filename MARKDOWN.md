@@ -38,3 +38,10 @@ Toma sobretodo mucha relevancia como contextualizador para el código y el desar
 de la mano de los repositorios de código como GitHub y la programación con Inteligencia Artificial.
 
 ---
+
+Salto de linea
+
+Este archivo se puede ir actualizando con el tiempo, debido a que inicialmente se incluyeron los
+estilos básicos para su dominio.
+
+---
